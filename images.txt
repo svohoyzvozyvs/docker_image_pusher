@@ -1,4 +1,3 @@
-keking/kkfileview-base:4.4.0
 wcjiang/linux-command:latest
 frooodle/s-pdf:latest
 ghcr.io/immich-app/immich-server:release
