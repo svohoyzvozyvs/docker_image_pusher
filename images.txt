@@ -1,3 +1,4 @@
+mediagis/nominatim:5.1
 wcjiang/linux-command:latest
 frooodle/s-pdf:latest
 ghcr.io/immich-app/immich-server:release
